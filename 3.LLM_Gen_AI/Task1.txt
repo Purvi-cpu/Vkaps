@@ -1,0 +1,42 @@
+1. Text-Generation ->
+   *GPT-2 / GPT-Neo -
+       Generates human-like text
+       Completes sentences or paragraphs
+       Applications-
+        Chatbots
+        Content writing
+        Story or blog generation
+        Code generation (basic)
+
+2. Image-to-text ->
+    * datalab-to/chandra -
+        Chandra is an OCR model that outputs markdown, HTML, and JSON. It is highly accurate at extracting
+         text from images and PDFs, while preserving layout information.
+
+3. Text-to-image ->
+    * Stable Diffusion -
+       Creates images from text prompts
+        Applications-
+            AI art generation
+            Logo & poster design
+            Game and movie concept art
+            Marketing visuals
+
+4. Text Understanding ->
+    * BERT (Bidirectional Encoder Representations from Transformers) -
+        Understands the meaning of text
+        Good at classification and question answering
+        Applications -
+            Sentiment analysis (positive/negative reviews)
+            Spam detection
+            Text classification
+            Question answering systems
+
+5. Speech Recognition ->
+    * Wav2Vec 2.0
+        Converts speech to text
+        Applications-
+            Voice assistants
+            Transcription services
+            Call center analytics
+            Accessibility tools

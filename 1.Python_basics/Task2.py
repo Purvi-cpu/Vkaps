@@ -1,0 +1,10 @@
+import numpy as np
+data = np.array([2,4,6])
+d2 = np.array([1,3,5])
+print(data.sum())
+print(data.mean())
+print(np.median(data))
+print(data.min())
+print(data.max())
+print(np.append(data,8))
+print(np.concatenate((data,d2)))
